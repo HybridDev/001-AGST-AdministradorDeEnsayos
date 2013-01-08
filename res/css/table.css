@@ -1,0 +1,61 @@
+table, td, th{
+	border-collapse: collapse;
+	border-color: #E1E1E1;
+	font-size: 0.9em;
+}
+
+table{
+	margin: 10px auto;
+	text-align: center;
+	width: 80%;
+	min-width: 600px;
+	margin-bottom: 30px;
+}
+
+th{
+	color:#888;
+	background-color: #EEE;
+	height: 20px;
+}
+.id{
+	width: 6%;
+	max-width: 200px;
+}
+
+td{
+	background-color: #FAFAFA;
+	padding: 7px;
+	max-width: 350px;
+	max-height: 40px;
+	overflow: hidden;
+	color: #999;
+}
+.presup{
+	width:420px;
+}
+.issue{
+	text-align: left;
+	padding-left: 20px;
+}
+.estimate{
+	width: 200px;
+	overflow: hidden;
+}
+/*PAGINADOR*/
+
+div.pager {
+    text-align: center;
+    margin: 2em 0;
+}
+
+div.pager span {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+   	font-size: 0.8em;
+    text-align: center;
+    cursor: pointer;
+    background: #F5A74F;
+    color: #fff;
+    margin-right: 0.5em;
+}

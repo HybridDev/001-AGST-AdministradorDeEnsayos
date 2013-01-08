@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<database>
+	<host>"local"</host>
+	<user>"root"</user>
+	<pass>"root"</pass>
+	<name>"test"</name>
+	<table>"client"</table>
+</database>
